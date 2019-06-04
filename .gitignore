@@ -1,3 +1,9 @@
+# FBPro
+core/
+script/
+Main.js
+package*.json
+
 # Logs
 logs
 *.log
